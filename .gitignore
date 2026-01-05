@@ -32,9 +32,9 @@ transformers_cache/
 datasets/
 
 # Data folders (keep raw data out of git)
-data/raw/
-data/*.jsonl
-data/*.json
+# data/raw/
+# data/*.jsonl
+# data/*.json
 
 # Logs, outputs, checkpoints
 outputs/
